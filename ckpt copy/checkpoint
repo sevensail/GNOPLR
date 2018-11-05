@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/Seven/TF_RL_save10000"
+all_model_checkpoint_paths: "/Users/Seven/TF_RL_save6000"
+all_model_checkpoint_paths: "/Users/Seven/TF_RL_save7000"
+all_model_checkpoint_paths: "/Users/Seven/TF_RL_save8000"
+all_model_checkpoint_paths: "/Users/Seven/TF_RL_save9000"
+all_model_checkpoint_paths: "/Users/Seven/TF_RL_save10000"
